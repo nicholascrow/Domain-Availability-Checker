@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DomainCheckerRemade
+</name>
+</assembly>
+<members>
+<member name="T:Domain_Checker_Remade.Http">
+Last updated 1/16
+
+</member><member name="P:Domain_Checker_Remade.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Domain_Checker_Remade.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Domain_Checker_Remade.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

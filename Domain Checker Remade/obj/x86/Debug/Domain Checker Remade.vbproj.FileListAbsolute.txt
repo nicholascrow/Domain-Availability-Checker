@@ -1,0 +1,16 @@
+C:\Users\NICK\documents\visual studio 2010\Projects\Domain Checker Remade\Domain Checker Remade\bin\Debug\Domain Checker Remade.exe
+C:\Users\NICK\documents\visual studio 2010\Projects\Domain Checker Remade\Domain Checker Remade\bin\Debug\Domain Checker Remade.pdb
+C:\Users\NICK\documents\visual studio 2010\Projects\Domain Checker Remade\Domain Checker Remade\bin\Debug\Domain Checker Remade.xml
+C:\Users\NICK\documents\visual studio 2010\Projects\Domain Checker Remade\Domain Checker Remade\obj\x86\Debug\Domain_Checker_Remade.Form1.resources
+C:\Users\NICK\documents\visual studio 2010\Projects\Domain Checker Remade\Domain Checker Remade\obj\x86\Debug\Domain_Checker_Remade.Resources.resources
+C:\Users\NICK\documents\visual studio 2010\Projects\Domain Checker Remade\Domain Checker Remade\obj\x86\Debug\Domain Checker Remade.exe
+C:\Users\NICK\documents\visual studio 2010\Projects\Domain Checker Remade\Domain Checker Remade\obj\x86\Debug\Domain Checker Remade.xml
+C:\Users\NICK\documents\visual studio 2010\Projects\Domain Checker Remade\Domain Checker Remade\obj\x86\Debug\Domain Checker Remade.pdb
+C:\Users\NICK\documents\visual studio 2010\Projects\Domain Checker Remade\Domain Checker Remade\obj\x86\Debug\Domain_Checker_Remade.Ad.resources
+C:\Users\NICK\documents\visual studio 2010\Projects\Domain Checker Remade\Domain Checker Remade\obj\x86\Debug\Domain_Checker_Remade.Ad2.resources
+C:\Users\NICK\documents\visual studio 2010\Projects\Domain Checker Remade\Domain Checker Remade\bin\Debug\Domain Checker Remade.exe.manifest
+C:\Users\NICK\documents\visual studio 2010\Projects\Domain Checker Remade\Domain Checker Remade\bin\Debug\Domain Checker Remade.application
+C:\Users\NICK\documents\visual studio 2010\Projects\Domain Checker Remade\Domain Checker Remade\obj\x86\Debug\Domain Checker Remade.exe.manifest
+C:\Users\NICK\documents\visual studio 2010\Projects\Domain Checker Remade\Domain Checker Remade\obj\x86\Debug\Domain Checker Remade.application
+C:\Users\NICK\documents\visual studio 2010\Projects\Domain Checker Remade\Domain Checker Remade\bin\Debug\Domain Checker Remade.exe.config
+C:\Users\NICK\Documents\Visual Studio 2010\Projects\Domain Checker Remade\Domain Checker Remade\obj\x86\Debug\Domain Checker Remade.vbproj.GenerateResource.Cache

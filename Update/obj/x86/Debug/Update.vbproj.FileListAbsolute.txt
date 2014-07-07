@@ -1,0 +1,9 @@
+C:\Users\NICK\documents\visual studio 2010\Projects\Domain Checker Remade\Update\bin\Debug\Update.exe
+C:\Users\NICK\documents\visual studio 2010\Projects\Domain Checker Remade\Update\bin\Debug\Update.pdb
+C:\Users\NICK\documents\visual studio 2010\Projects\Domain Checker Remade\Update\bin\Debug\Update.xml
+C:\Users\NICK\documents\visual studio 2010\Projects\Domain Checker Remade\Update\obj\x86\Debug\Update.Form1.resources
+C:\Users\NICK\documents\visual studio 2010\Projects\Domain Checker Remade\Update\obj\x86\Debug\Update.Resources.resources
+C:\Users\NICK\documents\visual studio 2010\Projects\Domain Checker Remade\Update\obj\x86\Debug\Update.exe
+C:\Users\NICK\documents\visual studio 2010\Projects\Domain Checker Remade\Update\obj\x86\Debug\Update.xml
+C:\Users\NICK\documents\visual studio 2010\Projects\Domain Checker Remade\Update\obj\x86\Debug\Update.pdb
+C:\Users\NICK\Documents\Visual Studio 2010\Projects\Domain Checker Remade\Update\obj\x86\Debug\Update.vbproj.GenerateResource.Cache
